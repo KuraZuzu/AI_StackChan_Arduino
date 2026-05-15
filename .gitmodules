@@ -1,4 +1,4 @@
 [submodule "lib/stackchan-arduino"]
 	path = lib/stackchan-arduino
 	url = git@github.com:KuraZuzu/stackchan-arduino.git
-	branch = dev
+	branch = rt-motor
